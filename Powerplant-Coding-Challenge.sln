@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerplant-Coding-Challenge.Api", "Powerplant-Coding-Challenge.Api\Powerplant-Coding-Challenge.Api.csproj", "{BF96091A-15E7-4CCB-A4AC-F4E039DFF4C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerplant-Coding-Challenge.Solver", "Powerplant-Coding-Challenge.Solver\Powerplant-Coding-Challenge.Solver.csproj", "{BB11D766-8AC3-43AC-B034-EB276572ADF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerplant-Coding-Challenge.Dto", "Powerplant-Coding-Challenge.Dto\Powerplant-Coding-Challenge.Dto.csproj", "{04785D73-2CDD-4A2D-A405-EA3317C408C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation and Example Payload Files", "Documentation and Example Payload Files", "{71C1A547-9DA7-4224-8105-5D2AA19B24F3}"
+	ProjectSection(SolutionItems) = preProject
+		powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_response.json = powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_response.json
+		powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload1.json = powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload1.json
+		powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload2.json = powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload2.json
+		powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload3.json = powerplant-coding-challenge-master\powerplant-coding-challenge-master\example_payloads\payload3.json
+		powerplant-coding-challenge-master\powerplant-coding-challenge-master\README.md = powerplant-coding-challenge-master\powerplant-coding-challenge-master\README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerplant-Coding-Challenge.WpfApiClient", "Powerplant-Coding-Challenge.WpfApiClient\Powerplant-Coding-Challenge.WpfApiClient.csproj", "{325F99EB-1778-403D-AF24-F9E34756BE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF96091A-15E7-4CCB-A4AC-F4E039DFF4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF96091A-15E7-4CCB-A4AC-F4E039DFF4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF96091A-15E7-4CCB-A4AC-F4E039DFF4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF96091A-15E7-4CCB-A4AC-F4E039DFF4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB11D766-8AC3-43AC-B034-EB276572ADF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB11D766-8AC3-43AC-B034-EB276572ADF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB11D766-8AC3-43AC-B034-EB276572ADF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB11D766-8AC3-43AC-B034-EB276572ADF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04785D73-2CDD-4A2D-A405-EA3317C408C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04785D73-2CDD-4A2D-A405-EA3317C408C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04785D73-2CDD-4A2D-A405-EA3317C408C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04785D73-2CDD-4A2D-A405-EA3317C408C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10DF49F0-7CB0-4C1A-8A0F-7F650F45129C}
+	EndGlobalSection
+EndGlobal

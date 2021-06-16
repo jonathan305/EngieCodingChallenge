@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.deps.json
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.dll
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.pdb
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.dll
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.pdb
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.AssemblyInfo.cs
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.csproj.CopyComplete
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.dll
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Solver\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Solver.pdb

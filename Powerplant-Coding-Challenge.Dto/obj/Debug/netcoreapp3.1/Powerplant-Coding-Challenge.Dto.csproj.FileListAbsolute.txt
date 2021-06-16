@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.deps.json
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.dll
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\bin\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.pdb
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.AssemblyInfo.cs
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.dll
+C:\Users\User\Source\Repos\powerplant-coding-challenge-Jonathan\Powerplant-Coding-Challenge.Dto\obj\Debug\netcoreapp3.1\Powerplant-Coding-Challenge.Dto.pdb

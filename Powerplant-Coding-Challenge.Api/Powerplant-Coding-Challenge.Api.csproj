@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Powerplant_Coding_Challenge.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Powerplant-Coding-Challenge.Dto\Powerplant-Coding-Challenge.Dto.csproj" />
+    <ProjectReference Include="..\Powerplant-Coding-Challenge.Solver\Powerplant-Coding-Challenge.Solver.csproj" />
+  </ItemGroup>
+
+
+</Project>

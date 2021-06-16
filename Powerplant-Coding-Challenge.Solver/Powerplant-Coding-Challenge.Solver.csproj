@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Powerplant_Coding_Challenge.Solver</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Powerplant-Coding-Challenge.Dto\Powerplant-Coding-Challenge.Dto.csproj" />
+  </ItemGroup>
+
+</Project>
