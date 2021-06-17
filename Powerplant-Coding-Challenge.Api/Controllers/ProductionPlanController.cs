@@ -30,11 +30,13 @@ namespace Powerplant_Coding_Challenge.Api.Controllers
         {
             try
             {
-                return MeritOrderAlgorithm.CalculatePowerPlantProductionPlan(payload).ToArray();
+                IPowerPlantProductionPlanAlgorithm powerPlantProductionPlanAlgorithm = new MeritOrderAlgorithm();
+                return powerPlantProductionPlanAlgorithm.CalculatePowerPlantProductionPlan(payload).ToArray();
             }
             catch(Exception exception)
             {
                 _logger.LogError(exception.ToString());
+                // TODO:  throw custom exception
                 throw exception;
             }
 

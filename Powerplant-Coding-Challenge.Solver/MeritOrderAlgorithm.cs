@@ -11,10 +11,10 @@ namespace Powerplant_Coding_Challenge.Solver
     /// and taking into account the cost of the underlying energy sources (gas, kerosine) 
     /// and the Pmin and Pmax of each powerplant.
     /// </summary>
-    public class MeritOrderAlgorithm
+    public class MeritOrderAlgorithm:  IPowerPlantProductionPlanAlgorithm
     {
 
-        public static List<PowerplantProductionResponse> CalculatePowerPlantProductionPlan(Payload payload)
+        public List<PowerplantProductionResponse> CalculatePowerPlantProductionPlan(Payload payload)
         {
             List<PowerplantProductionResponse> productionPlan = new List<PowerplantProductionResponse>();
 
@@ -34,7 +34,7 @@ namespace Powerplant_Coding_Challenge.Solver
 
             decimal leftToProduce = load - pMinSum;
 
-            // Wind is most efficent 
+            // Wind is most efficent is it optimal to treat this Powersource as the first choice?  i think so.
             // Get maximum wind turbine Pmax 
             // Wind - turbines do not consume 'fuel' and thus are considered to generate power at zero price.
             foreach (Powerplant powerplant in payload.Powerplants.Where(pp => pp.Type == "windturbine").OrderByDescending(pp => pp.Efficiency))
@@ -57,6 +57,7 @@ namespace Powerplant_Coding_Challenge.Solver
             }
 
             // now which is more efficient gasfired or turbojet
+            // TODO:  account for CO2 emissions
             List<(Powerplant, decimal)> powerplantCostPerMWh = new List<(Powerplant, decimal)>();
 
             foreach (Powerplant powerplant in
