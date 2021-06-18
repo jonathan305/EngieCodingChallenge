@@ -16,6 +16,10 @@ namespace Powerplant_Coding_Challenge.Solver
 
         public List<PowerplantProductionResponse> CalculatePowerPlantProductionPlan(Payload payload)
         {
+            // TODO:  Perform checks on the input to ensure that payload is valid before running algorithm
+            
+
+
             List<PowerplantProductionResponse> productionPlan = new List<PowerplantProductionResponse>();
 
             decimal load = payload.Load;

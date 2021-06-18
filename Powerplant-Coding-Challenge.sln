@@ -18,7 +18,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation and Example P
 		powerplant-coding-challenge-master\powerplant-coding-challenge-master\README.md = powerplant-coding-challenge-master\powerplant-coding-challenge-master\README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerplant-Coding-Challenge.WpfApiClient", "Powerplant-Coding-Challenge.WpfApiClient\Powerplant-Coding-Challenge.WpfApiClient.csproj", "{325F99EB-1778-403D-AF24-F9E34756BE6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerplant-Coding-Challenge.WpfApiClient", "Powerplant-Coding-Challenge.WpfApiClient\Powerplant-Coding-Challenge.WpfApiClient.csproj", "{325F99EB-1778-403D-AF24-F9E34756BE6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerplant-Coding-Challenge.UnitAndIntegrationTesting", "Powerplant-Coding-Challenge.UnitAndIntegrationTesting\Powerplant-Coding-Challenge.UnitAndIntegrationTesting.csproj", "{DCC7B258-8318-4C5B-BD19-B4C779BA61FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,10 @@ Global
 		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{325F99EB-1778-403D-AF24-F9E34756BE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC7B258-8318-4C5B-BD19-B4C779BA61FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC7B258-8318-4C5B-BD19-B4C779BA61FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC7B258-8318-4C5B-BD19-B4C779BA61FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC7B258-8318-4C5B-BD19-B4C779BA61FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
